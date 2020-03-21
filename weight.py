@@ -11,7 +11,7 @@ print (w , "N")
 
 
 
-def forceCalculator(mass, acceleration)
+def forceCalculator(mass, acceleration):
 
     force = mass*acceleration
     return force
